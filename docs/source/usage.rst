@@ -6,7 +6,7 @@ Usage
 Installation
 ------------
 
-To use Lumache, first install it using pip:
+To use FRASIER, we'll need to first install the dependencies:
 
 .. code-block:: console
 
