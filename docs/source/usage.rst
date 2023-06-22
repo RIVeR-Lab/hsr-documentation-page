@@ -12,7 +12,7 @@ To use Lumache, first install it using pip:
 
    (.venv) $ pip install lumache
 
-Creating recipes
+Running Examples
 ----------------
 
 To retrieve a list of random ingredients,
